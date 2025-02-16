@@ -1,2 +1,2 @@
 # GNU-Linux-utils
-Utilities for GNU/Linux (or Linux) that I wrote.
+Utilities for GNU/Linux (or just Linux) that I wrote.
